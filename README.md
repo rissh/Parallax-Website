@@ -3,7 +3,7 @@ This repository is having all the codes used to create the parallax scrolling ef
 
 ## Below is the website link for your reference 
 
-[Live App](https://exploreaurangabad.netlify.app/)
+[Live App](https://exploreaurangabad.netlify.app)
 
 ## Author
 
